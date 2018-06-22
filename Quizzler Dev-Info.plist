@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Flavor</key>
-	<string>Production</string>
+	<string>Development</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>CFBundleDevelopmentRegion</key>
